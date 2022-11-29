@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mariusschroeter
 - 👀 I’m interested in building a startup
-- 🌱 I’m currently learning data science with python
+- 🌱 I’m currently learning flutter and react
 - 📫 How to reach me: schroeter_marius@web.de
 
 <!---
