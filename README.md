@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @mariusschroeter
+- 👋 Hi, I’m @mariusschroeter, Senior-FE-Dev
 - 👀 I’m interested in building a startup
-- 🌱 I’m currently learning flutter and react
 - 📫 How to reach me: schroeter_marius@web.de
 
 <!---
